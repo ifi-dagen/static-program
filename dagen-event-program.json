@@ -1,0 +1,78 @@
+{
+  "eventPeriods": [
+    {
+      "eventPeriodId": 1,
+      "eventPeriodHeaderText": "09:30: Frokost",
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 2,
+      "eventPeriodHeaderText": "10:00: Åpningstale, standområdet åpner",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "Åpningstale",
+          "eventStart": "10:00",
+          "eventHolder": "Kronprinsen",
+          "eventLocation": "Kantina",
+          "eventType": "",
+          "eventDescription": "Kronprinsen taler til IFI-studentene.",
+          "eventIcon": "fas fa-bolt"
+
+        }
+      ]
+    },
+    {
+      "eventPeriodId": 3,
+      "eventPeriodHeaderText": "16:00: Middag",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "Middag!",
+          "eventStart": "13:00",
+          "eventHolder": "",
+          "eventLocation": "2. etasje",
+          "eventType": "",
+          "eventDescription": "Pizza fra peppes.",
+          "eventIcon": ""
+        }
+      ]
+    },
+    {
+      "eventPeriodId": 4,
+      "eventPeriodHeaderText": "16:30: Mingleområdet åpner",
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 6,
+      "eventPeriodHeaderText": "19:00: Konsert",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "Artist 1!",
+          "eventStart": "19:00",
+          "eventHolder": "",
+          "eventLocation": "Kantina",
+          "eventType": "",
+          "eventDescription": "Noe om artist 1",
+          "eventIcon": ""
+        },
+        {
+          "eventId": 2,
+          "eventTitle": "Artist 2!",
+          "eventStart": "20:00",
+          "eventHolder": "",
+          "eventLocation": "Kantina",
+          "eventType": "",
+          "eventDescription": "Noe kult om artist 2",
+          "eventIcon": ""
+        }
+      ]
+    }
+  ]
+}
