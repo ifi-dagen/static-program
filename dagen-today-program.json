@@ -1,5 +1,5 @@
 {
-  "eventPeriods": [
+  "programPeriods": [
     {
       "eventPeriodId": 1,
       "eventPeriodHeaderText": "09:30: Frokost",
@@ -48,7 +48,7 @@
       "events": []
     },
     {
-      "eventPeriodId": 6,
+      "eventPeriodId": 5,
       "eventPeriodHeaderText": "19:00: Konsert",
       "eventPeriodCanExpand": true,
       "events": [
