@@ -1,13 +1,13 @@
 {
   "eventPeriods": [
     {
-      "eventPeriodId": 1,
+      "eventPeriodId": 100,
       "eventPeriodHeaderText": "09:30: Frokost",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
-      "eventPeriodId": 2,
+      "eventPeriodId": 102,
       "eventPeriodHeaderText": "10:00: Åpningstale, standområdet åpner",
       "eventPeriodCanExpand": true,
       "events": [
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "eventPeriodId": 3,
+      "eventPeriodId": 103,
       "eventPeriodHeaderText": "16:00: Middag",
       "eventPeriodCanExpand": true,
       "events": [
@@ -42,13 +42,13 @@
       ]
     },
     {
-      "eventPeriodId": 4,
+      "eventPeriodId": 104,
       "eventPeriodHeaderText": "16:30: Mingleområdet åpner",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
-      "eventPeriodId": 5,
+      "eventPeriodId": 105,
       "eventPeriodHeaderText": "19:00: Konsert",
       "eventPeriodCanExpand": true,
       "events": [
