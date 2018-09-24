@@ -17,7 +17,6 @@
         },
       ]
     },
-  "eventPeriods": [
     {
       "eventPeriodId": 2,
       "eventPeriodHeaderText": "13:00: Foredrag 2",
@@ -34,7 +33,7 @@
           "eventIcon": "fas fa-comment"
         },
       ]
-    },  "eventPeriods": [
+    },
     {
       "eventPeriodId": 3,
       "eventPeriodHeaderText": "14:00: Foredrag 3",
@@ -51,6 +50,6 @@
           "eventIcon": "fas fa-comment"
         },
       ]
-    },
+    }
   ]
 }
