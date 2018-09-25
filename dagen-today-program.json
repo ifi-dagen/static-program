@@ -1,7 +1,7 @@
 {
   "eventPeriods": [
     {
-      "eventPeriodId": 1,
+      "eventPeriodId": 100,
       "eventPeriodHeaderText": "12:00: Foredrag 1",
       "eventPeriodCanExpand": true,
       "events": [
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "eventPeriodId": 2,
+      "eventPeriodId": 101,
       "eventPeriodHeaderText": "13:00: Foredrag 2",
       "eventPeriodCanExpand": true,
       "events": [
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "eventPeriodId": 3,
+      "eventPeriodId": 102,
       "eventPeriodHeaderText": "14:00: Foredrag 3",
       "eventPeriodCanExpand": true,
       "events": [
