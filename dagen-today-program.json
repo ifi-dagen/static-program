@@ -2,51 +2,96 @@
   "eventPeriods": [
     {
       "eventPeriodId": 100,
-      "eventPeriodHeaderText": "12:00: Foredrag 1",
+      "eventPeriodHeaderText": "10:30: Designsystemer - Bruk tiden din på viktigere ting",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Hvordan AI forandrer bilbransjen",
-          "eventStart": "10:00",
-          "eventHolder": "Sigurd Rognhaugen",
-          "eventLocation": "Seminarrom java",
+          "eventTitle": "Designsystemer - Bruk tiden din på viktigere ting",
+          "eventStart": "10:30",
+          "eventHolder": "Eirik Lillejordet fra Knowit",
+          "eventLocation": "Biblioteket",
           "eventType": "Foredrag",
-          "eventDescription": "Sigurd er sykt opptatt av AI og biler og vil nå snakke masse om det!",
+          "eventDescription": "Hva er et designsystem og hvorfor er det viktig for interaksjonsdesignere? Dette foredraget tar for seg hvordan interaksjonsdesignere kan tjene på å jobbe i designsystemer, slik at de kan fokusere på løse viktigere problemer. Det blir en praktisk tilnærming til tematikken med deling av erfaringer fra bruk av Sketch og Abstract.",
           "eventIcon": "fas fa-comment"
         }
       ]
     },
     {
       "eventPeriodId": 101,
-      "eventPeriodHeaderText": "13:00: Foredrag 2",
+      "eventPeriodHeaderText": "11:15: De 5 viktigste byggesteiner for digitale plattformer",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Hvordan AI forandrer bilbransjen",
-          "eventStart": "10:00",
-          "eventHolder": "Sigurd Rognhaugen",
-          "eventLocation": "Seminarrom java",
+          "eventTitle": "De 5 viktigste byggesteiner for digitale plattformer",
+          "eventStart": "11:15",
+          "eventHolder": "Dominic Akadimah og Guro Ødesneltvedt, Communicatè Norge",
+          "eventLocation": "Biblioteket",
           "eventType": "Foredrag",
-          "eventDescription": "Sigurd er sykt opptatt av AI og biler og vil nå snakke masse om det!",
+          "eventDescription": "Digitalisering handler i stor grad om utnyttelse av nye teknologier for å lansere nye, digitale tjenester raskt til markedet, levere bedre kundeopplevelser, automatisere tidkrevende prosesser og tilrettelegge for fremtiden løsninger. En god start for å lykkes i digitaliseringsarbeidet er å forstå samspillet mellom data, identitetsstyring, integrasjon, API Management og maskinlæring/kunstig intelligens. Under dette foredraget vil vi demonstrere praktiske eksempler på hvordan samspill mellom disse 5 elementene kan gi rask verdi til virksomheter.",
           "eventIcon": "fas fa-comment"
         }
       ]
     },
     {
       "eventPeriodId": 102,
-      "eventPeriodHeaderText": "14:00: Foredrag 3",
+      "eventPeriodHeaderText": "12:15: Produktutvikling og innovasjon i verdensklasse",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Hvordan AI forandrer bilbransjen",
-          "eventStart": "10:00",
-          "eventHolder": "Sigurd Rognhaugen",
-          "eventLocation": "Seminarrom java",
+          "eventTitle": "Produktutvikling og innovasjon i verdensklasse",
+          "eventStart": "12:15",
+          "eventHolder": "Johanne Rudolfsen og Marius Westgaard, Data respons",
+          "eventLocation": "Biblioteket",
           "eventType": "Foredrag",
-          "eventDescription": "Sigurd er sykt opptatt av AI og biler og vil nå snakke masse om det!",
+          "eventDescription": "Data respons snakker om sitt prosjekt med mange ny-utdannede involvert i prossessen.",
+          "eventIcon": "fas fa-comment"
+        },
+           {
+      "eventPeriodId": 103,
+      "eventPeriodHeaderText": "13:15: Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
+          "eventStart": "13:15",
+          "eventHolder": "Eirik Nordman Hansen, Acando",
+          "eventLocation": "Biblioteket",
+          "eventType": "Foredrag",
+          "eventDescription": "",
+          "eventIcon": "fas fa-comment"
+        },
+                   {
+      "eventPeriodId": 104,
+      "eventPeriodHeaderText": "14:15: NewTechLab - DNBs teknologiradar",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "NewTechLab - DNBs teknologiradar",
+          "eventStart": "14:15",
+          "eventHolder": "Yngvar Ugland, DNB",
+          "eventLocation": "Biblioteket",
+          "eventType": "Foredrag",
+          "eventDescription": "",
+          "eventIcon": "fas fa-comment"
+        },
+                           {
+      "eventPeriodId": 105,
+      "eventPeriodHeaderText": "15:15: AI i praksis",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "AI i praksis",
+          "eventStart": "15:15",
+          "eventHolder": "Navdeep Singh og Brede Bjørhovd, Sopra Steria",
+          "eventLocation": "Biblioteket",
+          "eventType": "Foredrag",
+          "eventDescription": "Sopra Steria forteller om deres erfaringer med hvordan AI brukes i praksis i Norske organisasjoner. Hvilke problemer er det som løses med AI i dag, og hvordan gjør vi det i praksis? I hvilken retning går utviklingen, hva har størst potensiale fremover og hvilke problemer løser vi om noen år?",
           "eventIcon": "fas fa-comment"
         }
       ]
