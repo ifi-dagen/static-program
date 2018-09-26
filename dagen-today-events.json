@@ -15,10 +15,10 @@
           "eventId": 1,
           "eventTitle": "Åpningstale",
           "eventStart": "10:00",
-          "eventHolder": "Kronprinsen",
+          "eventHolder": "Prorektor Gro Bjørnerud Mo",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Kronprinsen taler til IFI-studentene.",
+          "eventDescription": "Prorektor åpner dagen@ifi 2018 med tale.",
           "eventIcon": "fas fa-bolt"
         }
       ]
@@ -31,7 +31,7 @@
         {
           "eventId": 1,
           "eventTitle": "Middag!",
-          "eventStart": "13:00",
+          "eventStart": "16:00",
           "eventHolder": "",
           "eventLocation": "2. etasje",
           "eventType": "",
@@ -48,27 +48,37 @@
     },
     {
       "eventPeriodId": 5,
-      "eventPeriodHeaderText": "19:00: Konsert",
+      "eventPeriodHeaderText": "19:30: Standup",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Artist 1!",
-          "eventStart": "19:00",
+          "eventTitle": "Zahid Ali!",
+          "eventStart": "19:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Noe om artist 1",
+          "eventDescription": "Zahid Ali holder standup for studentene.",
           "eventIcon": ""
         },
         {
           "eventId": 2,
-          "eventTitle": "Artist 2!",
-          "eventStart": "20:00",
+          "eventTitle": "Sebastian Zalo!",
+          "eventStart": "20:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Noe kult om artist 2",
+          "eventDescription": "Hortens-rapperen tar med seg Yung Smul og har konsert for studentene.",
+          "eventIcon": ""
+        },
+        {
+          "eventId": 2,
+          "eventTitle": "Lucy Swann",
+          "eventStart": "21:30",
+          "eventHolder": "",
+          "eventLocation": "Kantina",
+          "eventType": "",
+          "eventDescription": "Lucy Swann med band.",
           "eventIcon": ""
         }
       ]
