@@ -36,6 +36,40 @@
 		},
 		{
 			"eventPeriodId": 102,
+			"eventPeriodHeaderText": "11:15: Bias i maskinlæring",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Bias i maskinlæring",
+					"eventStart": "11:15",
+					"eventHolder": "Johanne Linde, Netcompany",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 103,
+			"eventPeriodHeaderText": "11:40: Hvordan lære roboter å forstå hva de ser",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Hvordan lære roboter å forstå hva de ser",
+					"eventStart": "11:40",
+					"eventHolder": "Asbjørn Berge, SINTEF",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 104,
 			"eventPeriodHeaderText": "12:15: Produktutvikling og innovasjon i verdensklasse",
 			"eventPeriodCanExpand": true,
 			"events": [
@@ -52,7 +86,58 @@
 			]
 		},
 		{
-			"eventPeriodId": 103,
+			"eventPeriodId": 105,
+			"eventPeriodHeaderText": "12:15: Universell utforming som et konkurransefortrinn. Hvorfor gidde?",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Universell utforming som et konkurransefortrinn. Hvorfor gidde?",
+					"eventStart": "12:15",
+					"eventHolder": "Kristoffer Lium, NRK",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 106,
+			"eventPeriodHeaderText": "12:30: “DNB driver jo med alt!” - Memoarer fra Summer Interns",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "“DNB driver jo med alt!” - Memoarer fra Summer Interns",
+					"eventStart": "12:30",
+					"eventHolder": "Tobias Aasmoe og Kaia Marie Rosseland, DNB",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 107,
+			"eventPeriodHeaderText": "12:50: AI og blockchain er direkte konkurrenter",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "AI og blockchain er direkte konkurrenter",
+					"eventStart": "12:50",
+					"eventHolder": "Jon Ramvi, Blockchangers",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 108,
 			"eventPeriodHeaderText": "13:15: Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
 			"eventPeriodCanExpand": true,
 			"events": [
@@ -69,7 +154,41 @@
 			]
 		},
 		{
-			"eventPeriodId": 104,
+			"eventPeriodId": 109,
+			"eventPeriodHeaderText": "13:15: Teknologi som katalysator for effektivitet i den finansielle industri",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Teknologi som katalysator for effektivitet i den finansielle industri",
+					"eventStart": "13:15",
+					"eventHolder": "Ann-Christin Wehler og Håkon Brynildsen, NBIM",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 110,
+			"eventPeriodHeaderText": "13:50: Hvordan kan data fra sosiale medier bli brukt i nødsituasjonshåndtering?",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Hvordan kan data fra sosiale medier bli brukt i nødsituasjonshåndtering?",
+					"eventStart": "13:50",
+					"eventHolder": "Mariah Vårum, Politiets IKT-tjenester",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 111,
 			"eventPeriodHeaderText": "14:15: NewTechLab - DNBs teknologiradar",
 			"eventPeriodCanExpand": true,
 			"events": [
@@ -86,7 +205,58 @@
 			]
 		},
 		{
-			"eventPeriodId": 105,
+			"eventPeriodId": 112,
+			"eventPeriodHeaderText": "14:15: Sårbarheter: Spectre og Meltdown",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Sårbarheter: Spectre og Meltdown",
+					"eventStart": "14:15",
+					"eventHolder": "Solveig Bruvoll og Trond Arne Sørby, FFI",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 113,
+			"eventPeriodHeaderText": "14:35: Hvordan er det å være intern i en startup?",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Hvordan er det å være intern i en startup?",
+					"eventStart": "14:35",
+					"eventHolder": "Anton Abilov og Ingeborg Margrete Jenson, Ardoq",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 114,
+			"eventPeriodHeaderText": "14:50: Design Sprint -- en kjapp intro",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Design Sprint -- en kjapp intro",
+					"eventStart": "14:50",
+					"eventHolder": "Kristin Brænden, No Isolation",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 115,
 			"eventPeriodHeaderText": "15:15: AI i praksis",
 			"eventPeriodCanExpand": true,
 			"events": [
@@ -99,6 +269,57 @@
 					"eventType": "Foredrag",
 					"eventDescription": "Sopra Steria forteller om deres erfaringer med hvordan AI brukes i praksis i Norske organisasjoner. Hvilke problemer er det som løses med AI i dag, og hvordan gjør vi det i praksis? I hvilken retning går utviklingen, hva har størst potensiale fremover og hvilke problemer løser vi om noen år?",
 					"eventIcon": "fas fa-comment"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 116,
+			"eventPeriodHeaderText": "15:15: Google AutoML Vision; Maskinlæring på lett vis.",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Google AutoML Vision; Maskinlæring på lett vis.",
+					"eventStart": "15:15",
+					"eventHolder": "John Ketil Willoch, Visma Consulting",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 117,
+			"eventPeriodHeaderText": "15:30: IOT-medaljens bakside",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "IOT-medaljens bakside",
+					"eventStart": "15:30",
+					"eventHolder": "Glenn Brownlee, Sparebank 1",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
+				}
+			]
+		},
+		{
+			"eventPeriodId": 118,
+			"eventPeriodHeaderText": "15:45: Kotlin, mitt nye favorittspråk!",
+			"eventPeriodCanExpand": true,
+			"events": [
+				{
+					"eventId": 1,
+					"eventTitle": "Kotlin, mitt nye favorittspråk!",
+					"eventStart": "15:45",
+					"eventHolder": "Vegard Veiset, Bekk",
+					"eventLocation": "Escape",
+					"eventType": "Lyntale",
+					"eventDescription": "",
+					"eventIcon": "fas fa-bolt"
 				}
 			]
 		}
