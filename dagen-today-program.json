@@ -2,7 +2,7 @@
 	"eventPeriods": [
 		{
 			"eventPeriodId": 100,
-			"eventPeriodHeaderText": "10:30: Designsystemer - Bruk tiden din på viktigere ting",
+			"eventPeriodTitleText": "10:30: Designsystemer - Bruk tiden din på viktigere ting",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -19,7 +19,7 @@
 		},
 		{
 			"eventPeriodId": 101,
-			"eventPeriodHeaderText": "11:15: De 5 viktigste byggesteiner for digitale plattformer",
+			"eventPeriodTitleText": "11:15: De 5 viktigste byggesteiner for digitale plattformer",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -36,7 +36,7 @@
 		},
 		{
 			"eventPeriodId": 102,
-			"eventPeriodHeaderText": "11:15: Bias i maskinlæring",
+			"eventPeriodTitleText": "11:15: Bias i maskinlæring",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -53,7 +53,7 @@
 		},
 		{
 			"eventPeriodId": 103,
-			"eventPeriodHeaderText": "11:40: Hvordan lære roboter å forstå hva de ser",
+			"eventPeriodTitleText": "11:40: Hvordan lære roboter å forstå hva de ser",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -70,7 +70,7 @@
 		},
 		{
 			"eventPeriodId": 104,
-			"eventPeriodHeaderText": "12:15: Produktutvikling og innovasjon i verdensklasse",
+			"eventPeriodTitleText": "12:15: Produktutvikling og innovasjon i verdensklasse",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -87,7 +87,7 @@
 		},
 		{
 			"eventPeriodId": 105,
-			"eventPeriodHeaderText": "12:15: Universell utforming som et konkurransefortrinn. Hvorfor gidde?",
+			"eventPeriodTitleText": "12:15: Universell utforming som et konkurransefortrinn. Hvorfor gidde?",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -104,7 +104,7 @@
 		},
 		{
 			"eventPeriodId": 106,
-			"eventPeriodHeaderText": "12:30: “DNB driver jo med alt!” - Memoarer fra Summer Interns",
+			"eventPeriodTitleText": "12:30: “DNB driver jo med alt!” - Memoarer fra Summer Interns",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -121,7 +121,7 @@
 		},
 		{
 			"eventPeriodId": 107,
-			"eventPeriodHeaderText": "12:50: AI og blockchain er direkte konkurrenter",
+			"eventPeriodTitleText": "12:50: AI og blockchain er direkte konkurrenter",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -138,7 +138,7 @@
 		},
 		{
 			"eventPeriodId": 108,
-			"eventPeriodHeaderText": "13:15: Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
+			"eventPeriodTitleText": "13:15: Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -155,7 +155,7 @@
 		},
 		{
 			"eventPeriodId": 109,
-			"eventPeriodHeaderText": "13:15: Teknologi som katalysator for effektivitet i den finansielle industri",
+			"eventPeriodTitleText": "13:15: Teknologi som katalysator for effektivitet i den finansielle industri",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -172,7 +172,7 @@
 		},
 		{
 			"eventPeriodId": 110,
-			"eventPeriodHeaderText": "13:50: Hvordan kan data fra sosiale medier bli brukt i nødsituasjonshåndtering?",
+			"eventPeriodTitleText": "13:50: Hvordan kan data fra sosiale medier bli brukt i nødsituasjonshåndtering?",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -189,7 +189,7 @@
 		},
 		{
 			"eventPeriodId": 111,
-			"eventPeriodHeaderText": "14:15: NewTechLab - DNBs teknologiradar",
+			"eventPeriodTitleText": "14:15: NewTechLab - DNBs teknologiradar",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -206,7 +206,7 @@
 		},
 		{
 			"eventPeriodId": 112,
-			"eventPeriodHeaderText": "14:15: Sårbarheter: Spectre og Meltdown",
+			"eventPeriodTitleText": "14:15: Sårbarheter: Spectre og Meltdown",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -223,7 +223,7 @@
 		},
 		{
 			"eventPeriodId": 113,
-			"eventPeriodHeaderText": "14:35: Hvordan er det å være intern i en startup?",
+			"eventPeriodTitleText": "14:35: Hvordan er det å være intern i en startup?",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -240,7 +240,7 @@
 		},
 		{
 			"eventPeriodId": 114,
-			"eventPeriodHeaderText": "14:50: Design Sprint -- en kjapp intro",
+			"eventPeriodTitleText": "14:50: Design Sprint -- en kjapp intro",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -257,7 +257,7 @@
 		},
 		{
 			"eventPeriodId": 115,
-			"eventPeriodHeaderText": "15:15: AI i praksis",
+			"eventPeriodTitleText": "15:15: AI i praksis",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -274,7 +274,7 @@
 		},
 		{
 			"eventPeriodId": 116,
-			"eventPeriodHeaderText": "15:15: Google AutoML Vision; Maskinlæring på lett vis.",
+			"eventPeriodTitleText": "15:15: Google AutoML Vision; Maskinlæring på lett vis.",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -291,7 +291,7 @@
 		},
 		{
 			"eventPeriodId": 117,
-			"eventPeriodHeaderText": "15:30: IOT-medaljens bakside",
+			"eventPeriodTitleText": "15:30: IOT-medaljens bakside",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
@@ -308,7 +308,7 @@
 		},
 		{
 			"eventPeriodId": 118,
-			"eventPeriodHeaderText": "15:45: Kotlin, mitt nye favorittspråk!",
+			"eventPeriodTitleText": "15:45: Kotlin, mitt nye favorittspråk!",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{

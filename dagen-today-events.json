@@ -2,7 +2,7 @@
   "eventPeriods": [
     {
       "eventPeriodId": 1,
-      "eventPeriodHeaderText": "09:30: Frokost",
+      "eventPeriodTitleText": "09:30: Frokost",
       "eventPeriodCanExpand": true,
       "events": [
         {
@@ -19,7 +19,7 @@
     },
     {
       "eventPeriodId": 2,
-      "eventPeriodHeaderText": "10:00: Åpningstale, standområdet åpner",
+      "eventPeriodTitleText": "10:00: Åpningstale, standområdet åpner",
       "eventPeriodCanExpand": true,
       "events": [
         {
@@ -36,13 +36,13 @@
     },
     {
       "eventPeriodId": 3,
-      "eventPeriodHeaderText": "10:30: Første foredrag starter",
+      "eventPeriodTitleText": "10:30: Første foredrag starter",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
       "eventPeriodId": 4,
-      "eventPeriodHeaderText": "13:00: Kake",
+      "eventPeriodTitleText": "13:00: Kake",
       "eventPeriodCanExpand": true,
       "events": [
         {
@@ -59,7 +59,7 @@
     },
     {
       "eventPeriodId": 5,
-      "eventPeriodHeaderText": "16:00: Middag",
+      "eventPeriodTitleText": "16:00: Middag",
       "eventPeriodCanExpand": true,
       "events": [
         {
@@ -76,25 +76,25 @@
     },
     {
       "eventPeriodId": 6,
-      "eventPeriodHeaderText": "16:15: Mingleområdet åpner",
+      "eventPeriodTitleText": "16:15: Mingleområdet åpner",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
       "eventPeriodId": 7,
-      "eventPeriodHeaderText": "17:00: Escape åpner",
+      "eventPeriodTitleText": "17:00: Escape åpner",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
       "eventPeriodId": 8,
-      "eventPeriodHeaderText": "19:00: Kantina åpner",
+      "eventPeriodTitleText": "19:00: Kantina åpner",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
       "eventPeriodId": 9,
-      "eventPeriodHeaderText": "19:30: Zahid Ali!",
+      "eventPeriodTitleText": "19:30: Zahid Ali!",
       "eventPeriodCanExpand": true,
       "events": [
         {
@@ -111,7 +111,7 @@
     },
     {
       "eventPeriodId": 10,
-      "eventPeriodHeaderText": "20:30: Sebastian Zalo!",
+      "eventPeriodTitleText": "20:30: Sebastian Zalo!",
       "eventPeriodCanExpand": true,
       "events": [
         {
@@ -128,7 +128,7 @@
     },
     {
       "eventPeriodId": 11,
-      "eventPeriodHeaderText": "21:30: Lucy Swann!",
+      "eventPeriodTitleText": "21:30: Lucy Swann!",
       "eventPeriodCanExpand": true,
       "events": [
         {
