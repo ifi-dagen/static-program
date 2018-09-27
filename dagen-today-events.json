@@ -104,41 +104,41 @@
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Zahid Ali holder standup for studentene.",
+          "eventDescription": "For mange kjent som en morsom mann, skal Zahid Ali i år åpne kvelden@ifi med standup samt være kveldens konferansier. Tidligere har han vært med på Rikets Røst og Nissene på låven og vært standup-komiker siden 1999.",
           "eventIcon": ""
         }
       ]
     },
     {
       "eventPeriodId": 10,
-      "eventPeriodHeaderText": "20:30: Lucy Swann!",
+      "eventPeriodHeaderText": "20:30: Sebastian Zalo!",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Lucy Swann",
+          "eventTitle": "Sebastian Zalo!",
           "eventStart": "20:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Lucy Swann med band.",
+          "eventDescription": "Rapperen fra Horten har virkelig gjort seg bemerket i det norske hip-hip miljøet, blant annet i sine samarbeid med Yung Smul. Han spilte i år på Slottsfjell der P3 musikk skriver at han sørget for at stemninga var vill. I 2018 ga han ut mixtapen På Høytid Med Lavkultur.",
           "eventIcon": ""
         }
       ]
     },
     {
       "eventPeriodId": 11,
-      "eventPeriodHeaderText": "21:30: Sebastian Zalo!",
+      "eventPeriodHeaderText": "21:30: Lucy Swann!",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Sebastian Zalo!",
+          "eventTitle": "Lucy Swann",
           "eventStart": "21:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Hortens-rapperen tar med seg Yung Smul og har konsert for studentene.",
+          "eventDescription": "Lucy Swann har et bredt repertoar som både vokalist, musiker og komponist. Hennes nyeste album Blue, Indigo, Violet and Death kom ut i 2018 og ble av Aftenposten kalt «en eksentrisk pop-perle». Swann har et særegent preg i det store poplandskapet og vil være et frisk pust av pop på kvelden@ifi.",
           "eventIcon": ""
         }
       ]
