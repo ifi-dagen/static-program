@@ -3,8 +3,19 @@
     {
       "eventPeriodId": 1,
       "eventPeriodHeaderText": "09:30: Frokost",
-      "eventPeriodCanExpand": false,
-      "events": []
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "Frokost!",
+          "eventStart": "09:30",
+          "eventHolder": "",
+          "eventLocation": "2. etasje",
+          "eventType": "",
+          "eventDescription": "",
+          "eventIcon": ""
+        }
+      ]
     },
     {
       "eventPeriodId": 2,
@@ -25,6 +36,29 @@
     },
     {
       "eventPeriodId": 3,
+      "eventPeriodHeaderText": "10:30: Første foredrag starter",
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 4,
+      "eventPeriodHeaderText": "13:00: Kake",
+      "eventPeriodCanExpand": true,
+      "events": [
+        {
+          "eventId": 1,
+          "eventTitle": "Kake!",
+          "eventStart": "13:00",
+          "eventHolder": "",
+          "eventLocation": "2. etasje",
+          "eventType": "",
+          "eventDescription": "",
+          "eventIcon": ""
+        }
+      ]
+    },
+    {
+      "eventPeriodId": 5,
       "eventPeriodHeaderText": "16:00: Middag",
       "eventPeriodCanExpand": true,
       "events": [
@@ -41,44 +75,70 @@
       ]
     },
     {
-      "eventPeriodId": 4,
-      "eventPeriodHeaderText": "16:30: Mingleområdet åpner",
+      "eventPeriodId": 6,
+      "eventPeriodHeaderText": "16:15: Mingleområdet åpner",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
-      "eventPeriodId": 5,
-      "eventPeriodHeaderText": "19:30: Underholdning",
+      "eventPeriodId": 7,
+      "eventPeriodHeaderText": "17:00: Escape åpner",
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 8,
+      "eventPeriodHeaderText": "19:00: Kantina åpner",
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 9,
+      "eventPeriodHeaderText": "19:30: Zahid Ali!",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Zahid Ali!",
+          "eventTitle": "Standup med Zahid Ali!",
           "eventStart": "19:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
           "eventDescription": "Zahid Ali holder standup for studentene.",
           "eventIcon": ""
-        },
+        }
+      ]
+    },
+    {
+      "eventPeriodId": 10,
+      "eventPeriodHeaderText": "20:30: Lucy Swann!",
+      "eventPeriodCanExpand": true,
+      "events": [
         {
-          "eventId": 2,
-          "eventTitle": "Sebastian Zalo!",
+          "eventId": 1,
+          "eventTitle": "Lucy Swann",
           "eventStart": "20:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Hortens-rapperen tar med seg Yung Smul og har konsert for studentene.",
+          "eventDescription": "Lucy Swann med band.",
           "eventIcon": ""
-        },
+        }
+      ]
+    },
+    {
+      "eventPeriodId": 11,
+      "eventPeriodHeaderText": "21:30: Sebastian Zalo!",
+      "eventPeriodCanExpand": true,
+      "events": [
         {
-          "eventId": 2,
-          "eventTitle": "Lucy Swann",
+          "eventId": 1,
+          "eventTitle": "Sebastian Zalo!",
           "eventStart": "21:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Lucy Swann med band.",
+          "eventDescription": "Hortens-rapperen tar med seg Yung Smul og har konsert for studentene.",
           "eventIcon": ""
         }
       ]
