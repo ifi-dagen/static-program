@@ -2,323 +2,289 @@
 	"eventPeriods": [
 		{
 			"eventPeriodId": 100,
-			"eventPeriodTitleText": "10:30: Designsystemer - Bruk tiden din på viktigere ting",
+			"eventPeriodTitleText": "10:30: Svelte - Javascript som er tynnere enn tynnest",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Designsystemer - Bruk tiden din på viktigere ting",
+					"eventTitle": "Svelte - Javascript som er tynnere enn tynnest",
 					"eventStart": "10:30",
-					"eventHolder": "Eirik Lillejordet fra Knowit",
-					"eventLocation": "Biblioteket",
+					"eventHolder": "Eirik Vågeskar fra Knowit",
+					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "Hva er et designsystem og hvorfor er det viktig for interaksjonsdesignere? Dette foredraget tar for seg hvordan interaksjonsdesignere kan tjene på å jobbe i designsystemer, slik at de kan fokusere på løse viktigere problemer. Det blir en praktisk tilnærming til tematikken med deling av erfaringer fra bruk av Sketch og Abstract.",
+					"eventDescription": "Intro til Svelte.",
 					"eventIcon": "fas fa-comment"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 101,
-			"eventPeriodTitleText": "11:15: De 5 viktigste byggesteiner for digitale plattformer",
+			"eventPeriodTitleText": "10:55: AI against neonatal jaundice",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "De 5 viktigste byggesteiner for digitale plattformer",
-					"eventStart": "11:15",
-					"eventHolder": "Dominic Akadimah og Guro Ødesneltvedt, Communicatè Norge",
-					"eventLocation": "Biblioteket",
+					"eventTitle": "AI against neonatal jaundice",
+					"eventStart": "10:55",
+					"eventHolder": "Anine Harto, Michael Magnussen og Fabian Dietrichson, Accenture",
+					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "Digitalisering handler i stor grad om utnyttelse av nye teknologier for å lansere nye, digitale tjenester raskt til markedet, levere bedre kundeopplevelser, automatisere tidkrevende prosesser og tilrettelegge for fremtiden løsninger. En god start for å lykkes i digitaliseringsarbeidet er å forstå samspillet mellom data, identitetsstyring, integrasjon, API Management og maskinlæring/kunstig intelligens. Under dette foredraget vil vi demonstrere praktiske eksempler på hvordan samspill mellom disse 5 elementene kan gi rask verdi til virksomheter.",
+					"eventDescription": "Picterus har en mobilapp som predikerer Gulsott hos spedbarn via bilder. Det er estimert at 114 000 spedbarn dør av sykdommen hvert år. Appen bygger på en modell som krever internett for å gjøre prediksjoner. Sommerstudenter hos Accenture har sett på muligheten for å erstatte modellen ved hjelp av maskinlæring. Målet er å øke treffsikkerheten, og å tilpasse appen slik at den kan kjøre offline. Ved bruk av bildedata fra kliniske studier i Mexico har sommerstudentene oppnådd resultater som tyder på en bedre prediksjonsevne enn dagens modell. Neste steg er å gå til innsamling av mer data for å kunne gjøre prediksjoner på flere hudtyper.",
 					"eventIcon": "fas fa-comment"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 102,
-			"eventPeriodTitleText": "11:15: Bias i maskinlæring",
+			"eventPeriodTitleText": "11:10: Torsdag er den nye lørdagen",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Bias i maskinlæring",
-					"eventStart": "11:15",
-					"eventHolder": "Johanne Linde, Netcompany",
+					"eventTitle": "Torsdag er den nye lørdagen",
+					"eventStart": "11:10",
+					"eventHolder": "Stian Conradsen, SpareBank 1",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "For en utvikler i SpareBank 1 Utvikling er hver torsdag dedikert til fag. Vi kaller det enkelt og greit Fagdag. Denne dagen brukes til å ta kurs, teste ut nye teknologier, lage helt nye løsninger eller gjøre forbedringer på felles kode.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 103,
-			"eventPeriodTitleText": "11:40: Hvordan lære roboter å forstå hva de ser",
+			"eventPeriodTitleText": "11:30: Risikobasert tilsyn ved hjelp av maskinlæring",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Hvordan lære roboter å forstå hva de ser",
-					"eventStart": "11:40",
-					"eventHolder": "Asbjørn Berge, SINTEF",
+					"eventTitle": "Risikobasert tilsyn ved hjelp av maskinlæring",
+					"eventStart": "11:30",
+					"eventHolder": "Hanna Rognerud, Visma",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "Foredraget vil gi et innblikk i Vismas pilotprosjekt hos Mattilsynet, utfordringer ved maskinlæring og nytten ved risikobasering. Risikobasering av tilsyn går ut på å finne virksomheter som har en risiko for regelverksbrudd. Hvordan risiko blir kalkulert vil avhenge av hvilken risiko man er interessert i å forutsi. Hvilke faktorer som blir tatt med gjør at selve utregningen av risikoen vil variere. Data som er antatt å ha en statistisk sammenheng med risikoen er derfor nødvendig for å kunne prioritere tilsyn. På denne måten vil det være mulig å klassifisere tilsynsobjekter hvor det er størst risiko for å finne elementer som ikke er i henhold til eksempelvis regelverk og lovverk. Se blogginnlegg om prosjektet: https://www.visma.no/blogg/risikobasert-tilsyn-ved-hjelp-av-maskinlaering/",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 104,
-			"eventPeriodTitleText": "12:15: Produktutvikling og innovasjon i verdensklasse",
+			"eventPeriodTitleText": "11:50: DNB Corplife: Survival Guide",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Produktutvikling og innovasjon i verdensklasse",
-					"eventStart": "12:15",
-					"eventHolder": "Johanne Rudolfsen og Marius Westgaard, Data respons",
-					"eventLocation": "Biblioteket",
+					"eventTitle": "DNB Corplife: Survival Guide",
+					"eventStart": "11:50",
+					"eventHolder": "Adrian Foster, Henning Nesgård og Mateo Caycedo Alvarez, DNB",
+					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "Data respons snakker om sitt prosjekt med mange ny-utdannede involvert i prossessen.",
+					"eventDescription": "Det å jobbe i en såpass stor bedrift som DNB byr på mange muligheter og utfordringer. Bli med når DNB presenteres fra 3 ulike synsvinkler fra 3 nyutdannede utviklere!",
 					"eventIcon": "fas fa-comment"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 105,
-			"eventPeriodTitleText": "12:15: Universell utforming som et konkurransefortrinn. Hvorfor gidde?",
+			"eventPeriodTitleText": "12:10: Autonome kjøretøy i terreng",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Universell utforming som et konkurransefortrinn. Hvorfor gidde?",
-					"eventStart": "12:15",
-					"eventHolder": "Kristoffer Lium, NRK",
+					"eventTitle": "Autonome kjøretøy i terreng",
+					"eventStart": "12:10",
+					"eventHolder": "Marius Thoresen, FFI",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "På FFI utvikler vi autonome kjøretøy som skal kjøre i terreng. I dette foredraget vil jeg snakke om hvordan vi får til dette med spesielt fokus på software vi har utviklet, og metoder for computer vision og autonomi. Foredraget vil blant annet inkludere filmsnutter fra eksperimenter vi har gjennomført med kjøring i terreng.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 106,
-			"eventPeriodTitleText": "12:30: “DNB driver jo med alt!” - Memoarer fra Summer Interns",
+			"eventPeriodTitleText": "12:25: “Myter om Low-Code - hva er sannheten?",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "“DNB driver jo med alt!” - Memoarer fra Summer Interns",
-					"eventStart": "12:30",
-					"eventHolder": "Tobias Aasmoe og Kaia Marie Rosseland, DNB",
+					"eventTitle": "“Myter om Low-Code - hva er sannheten?",
+					"eventStart": "12:25",
+					"eventHolder": "Andreas Aasheim, Genus",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "Low-Code plattformer har de siste årene virkelig kommet på kartet som verktøy for å øke produktiviteten innen utvikling av virksomhetssystemer. Utover økt hastighet er det en rekke fordeler med Low-Code, men mange er fremdeles skeptiske – primært grunnet myter rundt hva denne teknologien representerer og hva den er kapabel til. I denne presentasjonen utfordrer og avkrefter vi disse mytene for å gi dere en bedre forståelse av hva Low-Code egentlig er.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 107,
-			"eventPeriodTitleText": "12:50: AI og blockchain er direkte konkurrenter",
+			"eventPeriodTitleText": "12:45: Kunsten å programmere",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "AI og blockchain er direkte konkurrenter",
-					"eventStart": "12:50",
-					"eventHolder": "Jon Ramvi, Blockchangers",
+					"eventTitle": "Kunsten å programmere",
+					"eventStart": "12:45",
+					"eventHolder": "Knut Mork og Roger Jakobsen, Rejlers",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "Betrakninger om det å jobbe som programmerer. Hva slags erfaringer gjør to karer som har lurt til seg penger for kode i altfor mange år og altfor mange prosjekter? Syntaks, algoritmer og datastrukturer kan seile sin egen sjø. Den største utfordringen er snarere oss selv, homo sapiens. Her blir det både høytflyvende tanker og refleksjoner, og kanskje noen konkrete tips på tampen til hvordan man blir en god programmerer.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 108,
-			"eventPeriodTitleText": "13:15: Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
+			"eventPeriodTitleText": "13:30: 20 måneder som ny konsulent",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Bra er ikke godt nok, vi må bli besatt av kundeopplevelse",
-					"eventStart": "13:15",
-					"eventHolder": "Eirik Nordman Hansen, Acando",
-					"eventLocation": "Biblioteket",
+					"eventTitle": "20 måneder som ny konsulent",
+					"eventStart": "13:30",
+					"eventHolder": "Fredrik Meyer, Bekk",
+					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "",
+					"eventDescription": "Jeg tenker å snakke om hvordan jeg endte opp som konsulent i Bekk, og hvordan den første tiden som ny konsulent var. Hva forventet jeg, og hva overrasket meg i denne rollen? til dagen: Foredraget baserer seg på denne bloggposten --> https://blogg.bekk.no/ett-%C3%A5r-som-konsulent-f2f6d9dcec78",
 					"eventIcon": "fas fa-comment"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 109,
-			"eventPeriodTitleText": "13:15: Teknologi som katalysator for effektivitet i den finansielle industri",
+			"eventPeriodTitleText": "13:55: Kontroll av tilrettelagt innhenting/digitalt grenseforsvar",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Teknologi som katalysator for effektivitet i den finansielle industri",
-					"eventStart": "13:15",
-					"eventHolder": "Ann-Christin Wehler og Håkon Brynildsen, NBIM",
+					"eventTitle": "Kontroll av tilrettelagt innhenting/digitalt grenseforsvar",
+					"eventStart": "13:55",
+					"eventHolder": "Håvard Ottestad, EOS-utvalget",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "Om ny lov om E-tjenesten blir vedtatt kan det være at det blir tilrettelagt innhenting/digitalt grenseforsvar som betyr at mye tele- og internettdata som krysser Norges grenser vil bli overvåket. Dette foredraget viser hvordan systemet er foreslått, og hvordan kontrollen kan bli.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 110,
-			"eventPeriodTitleText": "13:50: Hvordan kan data fra sosiale medier bli brukt i nødsituasjonshåndtering?",
+			"eventPeriodTitleText": "14:15: Slik tester NRK sine web-grensesnitt",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Hvordan kan data fra sosiale medier bli brukt i nødsituasjonshåndtering?",
-					"eventStart": "13:50",
-					"eventHolder": "Mariah Vårum, Politiets IKT-tjenester",
+					"eventTitle": "Slik tester NRK sine web-grensesnitt",
+					"eventStart": "14:15",
+					"eventHolder": "Simen Brekken, NRK",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "I NRK jobber vi nå med å lage et oppdatert utseende på de ulike webløsningene vi har for publikum. NRK har mange systemer, et stort publikum og skal nå ut til alle - både gamle og unge, og også blinde og svaksynte. I denne presentasjonen vil dere få innsikt i hvordan vi tester og kontrollerer at utseendet og funksjonaliteten blir riktig når vi gjør endringer i webløsningene våre.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 111,
-			"eventPeriodTitleText": "14:15: NewTechLab - DNBs teknologiradar",
+			"eventPeriodTitleText": "14:35: Hva skal jeg med versjonering? En forklaring av Git",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "NewTechLab - DNBs teknologiradar",
-					"eventStart": "14:15",
-					"eventHolder": "Yngvar Ugland, DNB",
-					"eventLocation": "Biblioteket",
+					"eventTitle": "Hva skal jeg med versjonering? En forklaring av Git",
+					"eventStart": "14:35",
+					"eventHolder": "Pio Rasch-Halvorsen, Fremtind Forsikring",
+					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "",
+					"eventDescription": "Mange studenter forstår ikke versjonering av kode og kommer aldri ordentlig i gang med det.",
 					"eventIcon": "fas fa-comment"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 112,
-			"eventPeriodTitleText": "14:15: Sårbarheter: Spectre og Meltdown",
+			"eventPeriodTitleText": "15:00: DevOps for maskinlæring",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Sårbarheter: Spectre og Meltdown",
-					"eventStart": "14:15",
-					"eventHolder": "Solveig Bruvoll og Trond Arne Sørby, FFI",
+					"eventTitle": "DevOps for maskinlæring",
+					"eventStart": "15:00",
+					"eventHolder": "Jonas Lindholm, Statnett",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": " Statnett har ansvar for det sentrale strømnettet, og for å sikre balanse mellom forbruk og produksjon av strøm. Strøm er ekstrem ferskvare, som må brukes i samme sekund som den lages. Maskinlæring blir stadig viktigere for å kunne balansere strømmen. Ettersom vi knytter mer volatil sol- og vindkraft til strømnettet, blir det vanskeligere å balansere, og til dette trengs gode prognoser. For å kunne ta i bruk maskinlæring benytter vi oss av kjente DevOps fremgangsmåter og en dynamisk infrastruktur for å kunne endre modeller og datakilder raskt. Foredraget beskriver hvordan vi jobber med systemutvikling for å få dette til og hvordan en robust infrastruktur for maskinlæring fungerer.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 113,
-			"eventPeriodTitleText": "14:35: Hvordan er det å være intern i en startup?",
+			"eventPeriodTitleText": "15:15: Fra IFI-studenter til gründere i Kolonial.no",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Hvordan er det å være intern i en startup?",
-					"eventStart": "14:35",
-					"eventHolder": "Anton Abilov og Ingeborg Margrete Jenson, Ardoq",
+					"eventTitle": "Fra IFI-studenter til gründere i Kolonial.no",
+					"eventStart": "15:15",
+					"eventHolder": "Christian Mikalsen, Kolonial.no",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "Kolonial.no ble medgründet av fire IFI-studenter og har raskt vokst til å bli Norges klart største dagligvarebutikk på nett, bygget på helt egenutviklet teknologi. Hør hvordan gründerreisen har vært, hvordan vi både teknologi og et moderne tech-selskap, og ambisjonene våre fremover.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 114,
-			"eventPeriodTitleText": "14:50: Design Sprint -- en kjapp intro",
+			"eventPeriodTitleText": "15:40: Bringing the Store to the Door",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Design Sprint -- en kjapp intro",
-					"eventStart": "14:50",
-					"eventHolder": "Kristin Brænden, No Isolation",
+					"eventTitle": "Bringing the Store to the Door",
+					"eventStart": "15:40",
+					"eventHolder": "Sindre Schei, Making Waves",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Fordrag",
+					"eventDescription": "For noen år siden bestemte Meny seg for å begynne å selge dagligvarer på nett. Men hvordan lager vi tjenester som tilfredsstiller behovene til nesten hele Norges befolkning, ulike butikkjeder, lastebilsjåfører og gamle systemer på best mulig måte? Sindre fra Making Waves skal fortelle historien om hvordan vi klarte å modernisere et tradisjonelt supermarked til en digital suksess.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 115,
-			"eventPeriodTitleText": "15:15: AI i praksis",
+			"eventPeriodTitleText": "17:30: Hvordan skape kunnskap om og innsikt i tusenvis av mikrotjenester",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "AI i praksis",
-					"eventStart": "15:15",
-					"eventHolder": "Navdeep Singh og Brede Bjørhovd, Sopra Steria",
-					"eventLocation": "Biblioteket",
+					"eventTitle": "Hvordan skape kunnskap om og innsikt i tusenvis av mikrotjenester",
+					"eventStart": "17:30",
+					"eventHolder": "Knut Johannes Dahle, CGI",
+					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "Sopra Steria forteller om deres erfaringer med hvordan AI brukes i praksis i Norske organisasjoner. Hvilke problemer er det som løses med AI i dag, og hvordan gjør vi det i praksis? I hvilken retning går utviklingen, hva har størst potensiale fremover og hvilke problemer løser vi om noen år?",
+					"eventDescription": "I DevOps er det er viktig prinsipp å designe applikasjonene tett opp mot brukernes behov, men ikke minst også for drift. Samtidig som det er viktig å skape tilbakemeldinger til utvikling og drift slik at det er enkelt å se hvordan applikasjonene til en hver tid fungerer. Får brukerne gjort det de skal? Er det noen indikasjoner på at systemet kan stoppe? I dagens moderne applikasjonsarkitektur så deles en applikasjon opp i mange små mikrotjenester. Disse mikrotjenestene skaleres i mange instanser for å håndtere all trafikk som kommer. Fra et tradisjonelt driftsperspektiv så er det et mareritt, da det blir veldig mange deler å ha oversikt over. Derfor kreves det en del automatisering og standardisering for å gjøre dette på en effektiv måte. Vi vil vise et praktisk eksempel på hvordan dette gjøres med en REST-tjeneste skrevet i Kotlin/Java med rammeverket Spring Boot, dritet på en populær driftsplattform som Kubernetes, og med Prometheus og Grafana for innhenting av metrikker.",
 					"eventIcon": "fas fa-comment"
 				}
 			]
 		},
 		{
 			"eventPeriodId": 116,
-			"eventPeriodTitleText": "15:15: Google AutoML Vision; Maskinlæring på lett vis.",
+			"eventPeriodTitleText": "18:00: Tobias er 8 år. Om 10 år er han kriminell. Eller?",
 			"eventPeriodCanExpand": true,
 			"events": [
 				{
 					"eventId": 1,
-					"eventTitle": "Google AutoML Vision; Maskinlæring på lett vis.",
-					"eventStart": "15:15",
-					"eventHolder": "John Ketil Willoch, Visma Consulting",
+					"eventTitle": "Tobias er 8 år. Om 10 år er han kriminell. Eller?",
+					"eventStart": "18:00",
+					"eventHolder": "Tore Aasgaard, Politiets IKT-tjenester",
 					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
-					"eventIcon": "fas fa-bolt"
-				}
-			]
-		},
-		{
-			"eventPeriodId": 117,
-			"eventPeriodTitleText": "15:30: IOT-medaljens bakside",
-			"eventPeriodCanExpand": true,
-			"events": [
-				{
-					"eventId": 1,
-					"eventTitle": "IOT-medaljens bakside",
-					"eventStart": "15:30",
-					"eventHolder": "Glenn Brownlee, Sparebank 1",
-					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
-					"eventIcon": "fas fa-bolt"
-				}
-			]
-		},
-		{
-			"eventPeriodId": 118,
-			"eventPeriodTitleText": "15:45: Kotlin, mitt nye favorittspråk!",
-			"eventPeriodCanExpand": true,
-			"events": [
-				{
-					"eventId": 1,
-					"eventTitle": "Kotlin, mitt nye favorittspråk!",
-					"eventStart": "15:45",
-					"eventHolder": "Vegard Veiset, Bekk",
-					"eventLocation": "Escape",
-					"eventType": "Lyntale",
-					"eventDescription": "",
+					"eventType": "Foredrag",
+					"eventDescription": "Foredraget tar utgangspunkt i livet til Tobias, 8 år. En helt vanlig gutt, fra en helt vanlig familie, med interesser som andre åtteåringer. Men om 10 år er han kriminell. Eller? Kan teknologi bidra til at dette ikke skjer? Hør mer om hvordan politiet kan utnytte mulighetene som ligger i maskinlæring og automatisert analyse, for å forebygge og bekjempe kriminalitet.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
