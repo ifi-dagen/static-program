@@ -19,12 +19,12 @@
     },
     {
       "eventPeriodId": 2,
-      "eventPeriodTitleText": "10:00: Åpningstale, standområdet åpner",
+      "eventPeriodTitleText": "10:00: Åpningssermoni, standområdet åpner",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Åpningstale",
+          "eventTitle": "Åpningssermoni",
           "eventStart": "10:00",
           "eventHolder": "Prorektor Gro Bjørnerud Mo",
           "eventLocation": "Kantina",
@@ -59,12 +59,12 @@
     },
     {
       "eventPeriodId": 5,
-      "eventPeriodTitleText": "16:00: Middag",
+      "eventPeriodTitleText": "16:00: Pizza!",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Middag!",
+          "eventTitle": "Pizza",
           "eventStart": "16:00",
           "eventHolder": "",
           "eventLocation": "2. etasje",
@@ -82,66 +82,85 @@
     },
     {
       "eventPeriodId": 7,
-      "eventPeriodTitleText": "17:00: Escape åpner",
+      "eventPeriodTitleText": "17:00: Escape åpner(18+)",
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
       "eventPeriodId": 8,
-      "eventPeriodTitleText": "19:00: Kantina åpner",
+      "eventPeriodTitleText": "17:00: Loungen åpner(18+)", 
       "eventPeriodCanExpand": false,
       "events": []
     },
     {
       "eventPeriodId": 9,
-      "eventPeriodTitleText": "19:30: Zahid Ali!",
+      "eventPeriodTitleText": "17:30: Foredragsbolk 2", 
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 10,
+      "eventPeriodTitleText": "19:00: Kantina åpner", 
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 11,
+      "eventPeriodTitleText": "20:00: Overraskelse!",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Standup med Zahid Ali!",
-          "eventStart": "19:30",
+          "eventTitle": "Overraskelse",
+          "eventStart": "20:00",
           "eventHolder": "",
-          "eventLocation": "Kantina",
+          "eventLocation": "Loungen",
           "eventType": "",
-          "eventDescription": "For mange kjent som en morsom mann, skal Zahid Ali i år åpne kvelden@ifi med standup samt være kveldens konferansier. Tidligere har han vært med på Rikets Røst og Nissene på låven og vært standup-komiker siden 1999.",
+          "eventDescription": "",
           "eventIcon": ""
         }
       ]
     },
     {
-      "eventPeriodId": 10,
-      "eventPeriodTitleText": "20:30: Sebastian Zalo!",
+      "eventPeriodId": 12,
+      "eventPeriodTitleText": "20:00: Messanien åpner(20+)", 
+      "eventPeriodCanExpand": false,
+      "events": []
+    },
+    {
+      "eventPeriodId": 13,
+      "eventPeriodTitleText": "20:30: Det andre teateret",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Sebastian Zalo!",
+          "eventTitle": "Det andre teateret",
           "eventStart": "20:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Rapperen fra Horten har virkelig gjort seg bemerket i det norske hip-hip miljøet, blant annet i sine samarbeid med Yung Smul. Han spilte i år på Slottsfjell der P3 musikk skriver at han sørget for at stemninga var vill. I 2018 ga han ut mixtapen På Høytid Med Lavkultur.",
+          "eventDescription": "",
           "eventIcon": ""
         }
       ]
     },
     {
-      "eventPeriodId": 11,
-      "eventPeriodTitleText": "21:30: Lucy Swann!",
+      "eventPeriodId": 14,
+      "eventPeriodTitleText": "21:30: Eddy&zino, Brits, Benyoub",
       "eventPeriodCanExpand": true,
       "events": [
         {
           "eventId": 1,
-          "eventTitle": "Lucy Swann",
+          "eventTitle": "Eddy&zino, Brits, Benyoub",
           "eventStart": "21:30",
           "eventHolder": "",
           "eventLocation": "Kantina",
           "eventType": "",
-          "eventDescription": "Lucy Swann har et bredt repertoar som både vokalist, musiker og komponist. Hennes nyeste album Blue, Indigo, Violet and Death kom ut i 2018 og ble av Aftenposten kalt «en eksentrisk pop-perle». Swann har et særegent preg i det store poplandskapet og vil være et frisk pust av pop på kvelden@ifi.",
+          "eventDescription": "",
           "eventIcon": ""
         }
       ]
     }
   ]
 }
+
