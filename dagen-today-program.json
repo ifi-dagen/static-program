@@ -12,7 +12,7 @@
 					"eventHolder": "Eirik Vågeskar fra Knowit",
 					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "Intro til Svelte.",
+					"eventDescription": "Svelte er en ny måte å lage web-apper på. Mens tradisjonelle web-rammeverk som React og Vue gjør mesteparten av arbeidet i nettleseren, flytter Svelte arbeidet over til et kompileringssteg idet man lager appen, som gjør appene mindre og raskere. Det er så lett å lage pene ting i Svelte at man opplever en jevn tilførsel av lykkehormoner mens man utvikler. I dette foredraget viser Eirik deg noen ting som skiller Svelte fra resten av gjengen. For eksempel hvordan du kan lage smoothe animasjoner med én kodelinje. Man trenger kun å ha grunnleggende forståelse av HTML og programmering for å dra nytte av foredraget, men det passer også mer erfarne.",
 					"eventIcon": "fas fa-comment"
 				}
 			]
@@ -284,7 +284,7 @@
 					"eventHolder": "Tore Aasgaard, Politiets IKT-tjenester",
 					"eventLocation": "Escape",
 					"eventType": "Foredrag",
-					"eventDescription": "Foredraget tar utgangspunkt i livet til Tobias, 8 år. En helt vanlig gutt, fra en helt vanlig familie, med interesser som andre åtteåringer. Men om 10 år er han kriminell. Eller? Kan teknologi bidra til at dette ikke skjer? Hør mer om hvordan politiet kan utnytte mulighetene som ligger i maskinlæring og automatisert analyse, for å forebygge og bekjempe kriminalitet.",
+					"eventDescription": "Betrakninger om det å jobbe som programmerer. Hva slags erfaringer gjør to karer som har lurt til seg penger for kode i altfor mange år og altfor mange prosjekter? Syntaks, algoritmer og datastrukturer kan seile sin egen sjø. Den største utfordringen er snarere oss selv, homo sapiens. Her blir det både høytflyvende tanker og refleksjoner, og kanskje noen konkrete tips på tampen til hvordan man blir en god programmerer.",
 					"eventIcon": "fas fa-bolt"
 				}
 			]
