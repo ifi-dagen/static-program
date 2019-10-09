@@ -160,6 +160,12 @@
           "eventIcon": ""
         }
       ]
+    },
+    {
+      "eventPeriodId": 15,
+      "eventPeriodTitleText": "01:00: Escape stenger", 
+      "eventPeriodCanExpand": false,
+      "events": []
     }
   ]
 }
