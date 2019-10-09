@@ -166,6 +166,12 @@
       "eventPeriodTitleText": "01:00: Escape stenger", 
       "eventPeriodCanExpand": false,
       "events": []
+    },
+    {
+      "eventPeriodId": 16,
+      "eventPeriodTitleText": "02:00: Kantina og Foajeen stenger", 
+      "eventPeriodCanExpand": false,
+      "events": []
     }
   ]
 }
